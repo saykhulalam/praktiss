@@ -1,0 +1,9 @@
+.o{
+    font-size: 100px;
+    color: #ffffff;
+    border: 5px solid red;
+    text-align: center;
+    background-color: blue;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
