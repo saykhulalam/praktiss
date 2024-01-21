@@ -7,3 +7,12 @@
     padding-bottom: 15px;
     margin-top: 50px;
 }
+.sha{
+    font-size: 100px;
+    color: #ffffff;
+    border: 5px solid black;
+    text-align: center;
+    background-color: pink;
+    padding-bottom: 15px;
+    margin-top: 50px; 
+}
